@@ -1,2 +1,2 @@
 # HelloWorld
-Nur ein Beispiel
+Nur ein Beispiel für die Benutzung von Git und GitHub
